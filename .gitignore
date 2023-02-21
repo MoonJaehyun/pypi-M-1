@@ -24,7 +24,3 @@ coverage.xml
 htmlcov/
 pytest-coverage.*
 
-# for template test
-docs/
-mkdocs.yaml
-.readthedocs.yaml

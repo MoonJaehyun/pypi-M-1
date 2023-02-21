@@ -1,20 +1,20 @@
 # Changes here will be overwritten by Copier; do NOT edit manually
-_commit: v0.0.1-rc.3
+_commit: b5fd010
 _src_path: .
-author: Young Joon Lee
+author: Jaehyun Moon
 copyright_year: 2023
 dist_path: dist
-documentation_url: https://entelecheia.github.io/hyperfast-template
-email: entelecheia@hotmail.com
-friendly_name: Hyperfast Template
-github_repo_name: hyperfast-template
-github_username: entelecheia
+documentation_url: ''
+email: jjmjh214@gmail.com
+friendly_name: Pypi-M-1
+github_repo_name: pypi-M-1
+github_username: MoonJaehyun
 project_description: Hyperfast Template is a self-contained template that helps you
     initialize your project inside the template. It is hyperfast in the sense that
     the template itself is converted into a project in the blink of an eye. It is
     also hyperfast in the sense that it helps you jump start your project with the
     best practices in the dev community.
 project_license: MIT
-project_name: hyperfast-template
+project_name: Pypi-M-1
 project_short_description: A general template that helps you jump start your project
 

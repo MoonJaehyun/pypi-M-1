@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "hyperfast-template"
-version = "0.1.1"
+name = "Pypi-M-1"
+version = "0.0.1-rc.7"
 description = "A general template that helps you jump start your project"
-authors = ["Young Joon Lee <entelecheia@hotmail.com>"]
+authors = ["Jaehyun Moon <jjmjh214@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 
